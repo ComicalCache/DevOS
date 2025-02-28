@@ -1,0 +1,9 @@
+[submodule "DevOS-kernel"]
+	path = DevOS-kernel
+	url = git@github.com:ComicalCache/DevOS-kernel
+[submodule "kernel"]
+	path = kernel
+	url = git@github.com:ComicalCache/DevOS-kernel
+[submodule "boot"]
+	path = boot
+	url = git@github.com:ComicalCache/DevOS-boot
